@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import { useEffect, useState } from "react"
 import useDelayedRender from 'use-delayed-render'
 import styles from 'styles/mobile-menu.module.css'
